@@ -226,3 +226,58 @@ of via de shortcut cmd + shift + i
 ![Oefening Les 1](https://cl.ly/0s1u3y1o1I0X/Screen%20Recording%202016-11-13%20at%2010.05%20PM.gif "Oefening Les 1")
 
 ## 7. Oefening 2
+
+![Spotify Effect](https://cdn-images-2.medium.com/max/2000/1*-nCsLWHAHmwJebVp8hKS0Q.jpeg "spotify effect")
+
+[http://www.wearecollins.com/work/spotify/](http://www.wearecollins.com/work/spotify/)
+
+- Maak nieuw bestand (1600px op 1400px)
+- Plaats de afbeelding MIA.jpg in het midden
+- Selecteer de laag met de afbeelding van MIA en maak een nieuwe adjustment layer.(via layer panel of via menu layer > new adjustment layer)
+- Kies voor Brightness / Contrast
+- Geef het contrast een value van 90
+
+![Adjustment Layer](https://cl.ly/2P0c2E0z0d3e/Screen%20Recording%202016-11-20%20at%2007.42%20PM.gif "Adjustment Layer")
+
+- Maak een nieuwe layer en geef deze een felgroene achtergrond kleur of de hexadecimale waarde van #00ff36 (Voorgrond kleur selecteren en dan laag opvullen via shortcut alt + delete / backspace). En selecteer de blending mode "multiply".
+
+![](https://cl.ly/351j1i3y2B0x/Screen%20Recording%202016-11-20%20at%2007.53%20PM.gif)
+
+- Maak nog een nieuwe layer maar gebruik deze keer een donkere kleur bvb. #23278a. Kies voor deze laag de blending mode "lighten"
+
+![New Layer](https://cl.ly/1k0r2J3o1Q1m/Screen%20Recording%202016-11-20%20at%2008.03%20PM.gif "New Layer")
+
+- Werk de donkere randen rond de afbeelding van MIA weg. Dit doe je door een layer mask te maken. En vervolgens met een zwarte brush tool over de zwarte randen te gaan.
+
+![](https://cl.ly/2B0s0D1e3p1C/Screen%20Recording%202016-11-20%20at%2008.09%20PM.gif)
+
+- Voeg 2 cirkels toe aan de afbeelding om het wat dynamisch te maken.
+
+![Add Circles](https://cl.ly/2h44371o042d/Screen%20Recording%202016-11-20%20at%2008.13%20PM.gif)
+
+- Voeg het logo van Spotify (spotify_logo.png) toe. En geef deze een witte overlay kleur (via add layer style > color overlay > kies witte kleur).
+
+![Add Spotify Logo](https://cl.ly/2F3u1t0k2P1l/Screen%20Recording%202016-11-20%20at%2008.18%20PM.gif)
+
+
+## 8. Oefening 3
+
+![Gradient Effect](https://www.recordbird.com/img/landingpage/lp-artist-11.jpg "Gradiant Effect")
+
+- Maak nieuw bestand van 1600px op 1400px (ctrl + n)
+- Plaats MIA.jpg in het midden van de file
+- Selecteer de laag met de afbeelding van MIA en maak een nieuwe adjustment layer > brightness / contrast
+- Breng het contrast van de afbeelding een beetje naar omhoog
+
+![Adjustment layer](https://cl.ly/1W1Z423m1T0d/Screen%20Recording%202016-11-20%20at%2008.37%20PM.gif "Brightness / Contrast")
+
+- Maak een nieuwe laag (ctrl + shift + n)
+- Selecteer een donker paarse voorgrondkleur en een lichtroze achtergrondkleur.
+- Selecteer de linear gradient tool en vul de laag op met het gradient (van boven naar onder).
+
+![Linear gradient tool](https://cl.ly/1M0K0U003n36/Screen%20Recording%202016-11-20%20at%2008.43%20PM.gif "linear gradient tool")
+
+- Selecteer de laag met de gradient en selecteer de blending mode "lighten". Pas eventueel de opacity van de laag aan.
+- Werk de donkere randen van de MIA afbeelding weg, dit doe je via een layer mask en de brush tool (zwarte brush).
+
+![](https://cl.ly/3I1f3t0c2E3A/Screen%20Recording%202016-11-20%20at%2008.49%20PM.gif)
